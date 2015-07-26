@@ -1,0 +1,8 @@
+.panel{
+  background-color: gray;
+  overflow: hidden;
+}
+
+body{
+  padding-top: 20px;
+}
