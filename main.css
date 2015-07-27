@@ -1,8 +1,13 @@
 .panel{
-  background-color: gray;
+  background-color: Lightgray;
   overflow: hidden;
 }
 
 body{
   padding-top: 20px;
 }
+
+.btn{
+  background-color: Lightblue;
+}
+
