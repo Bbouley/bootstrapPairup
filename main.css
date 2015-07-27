@@ -11,3 +11,7 @@ body{
   background-color: Lightblue;
 }
 
+.img-responsive{
+  height: 180px;
+}
+
